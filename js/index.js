@@ -61,6 +61,11 @@ function eventCounter(eventDate) {
   $(".seconds").html(`${seconds} S`);
 }
 
-setInterval(() => {
-  eventCounter("December 10, 2024 9:00:00");
+let intervalId = setInterval(() => {
+  console.log("kk");
+  const staticDate = "December 10, 2024 9:00:00";
+  if (new Date(staticDate).getTime() == new Date().getTime()) {
+    clearInterval(intervalId);
+  }
+  eventCounter(staticDate);
 }, 1000);
