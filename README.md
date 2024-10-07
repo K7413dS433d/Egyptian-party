@@ -10,8 +10,7 @@ This project is a small, interactive website designed to showcase Egyptian singe
 
 - **Singer Showcase**: Display a list of Egyptian singers with profiles.
 - **Event Countdown**: Real-time countdown to the next event.
-- **Join Us**: Users can register to attend the event.
-
+- **Join Us**: Users can apply to join the team and contribute to organizing events.
 ## Technologies Used
 
 - **HTML5** - For structuring the content.
