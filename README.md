@@ -29,4 +29,6 @@ Check out the live demo of the website [here](https://egyptian-party-nu.vercel.a
 
 ## Video
 
-Watch a quick walkthrough of the website [here](#).
+Watch a quick walkthrough of the website .
+
+https://github.com/user-attachments/assets/3eda9dd9-c7b5-4510-8305-4adcbc3e0d2c
