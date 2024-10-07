@@ -62,7 +62,6 @@ function eventCounter(eventDate) {
 }
 
 let intervalId = setInterval(() => {
-  console.log("kk");
   const staticDate = "December 10, 2024 9:00:00";
   if (new Date(staticDate).getTime() == new Date().getTime()) {
     clearInterval(intervalId);
